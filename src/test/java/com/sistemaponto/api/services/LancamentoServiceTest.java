@@ -1,10 +1,8 @@
 package com.sistemaponto.api.services;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
-import static org.junit.jupiter.api.Assertions.assertNull;
 
 import java.util.ArrayList;
-import java.util.Optional;
 
 import com.sistemaponto.api.models.Lancamento;
 import com.sistemaponto.api.repositories.LancamentoRepository;
